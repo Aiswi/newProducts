@@ -78,5 +78,21 @@
         "details": "Detachable Cat/Puppy Bow Tie",
         "price": 400,
         "qty": 1
+    },
+     {
+        "id": 17, 
+        "src": "https://cdn.shopify.com/s/files/1/0312/8826/2795/products/shebayellow_512x512.png?v=1613375341", 
+        "name": "Sheba Premium Wet Cat Food - Tuna Pumpkin",
+        "details": "Wet Cat Food - Tuna Pumpkin",
+        "price": 660,
+        "qty": 1
+    },
+     {
+        "id": 18, 
+        "src": "https://media.littlewoods.com/i/littlewoods/RUNE7_SQ3_0000000005_GREY_SLd1?$300x400_retinamobilex2$", 
+        "name": "HUFT Big Buddy Collection Dog Toy - Bunny the Rabbit",
+        "details": "Dog Toy - Bunny the Rabbit",
+        "price": 86,
+        "qty": 1
     }
 ]}
