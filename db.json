@@ -2,7 +2,7 @@
     {
         "id": 7, 
         "src": "https://images-eu.ssl-images-amazon.com/images/I/61Cjqpv-o5L.jpg", 
-        "name": "Pedigree Meat & Vegetables", 
+        "name": "Pedigree Meat & Vegetables Adult Dry Dog Food - 20 kg", 
         "details": "(Adult, Dry)",
         "price": 250,
         "qty": 1
@@ -10,7 +10,7 @@
     {
         "id": 8, 
         "src": "https://cdn.shopify.com/s/files/1/0086/0795/7054/products/Gluten-Free-Chicken_760585bc-b8e4-41f6-b7b5-cd2a6ab731da_1000x.jpg?v=1648628877", 
-        "name": "HUFT YIMT",
+        "name": "HUFT YIMT Gluten Free Dog Biscuits Combo",
         "details": "Gluten Free Dog Biscuits",
         "price": 100,
         "qty": 1
@@ -18,7 +18,7 @@
     {
         "id": 9, 
         "src": "https://www.petshopdirect.com.au/persistent/catalogue_images/products/whiskas-milk-plus-1-litre.png", 
-        "name": "Whiskas Milk Plus",
+        "name": "Whiskas Milk Plus 1 Litre",
         "details": "(1 Litre)",
         "price": 300,
         "qty": 1
@@ -26,7 +26,7 @@
     {
         "id": 10, 
         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxR3Z40GNIQyR1fpQzVtqxudRiok8Hy4YgZsAqGFgnCuLmiS6wyEUQmYxsZ6M-oGPvro&usqp=CAU", 
-        "name": "HUFT Toss & Tug Rope",
+        "name": "HUFT Toss & Tug Rope Dog Toy - Fun & easy to play",
         "details": "Dog Toy",
         "price": 500,
         "qty": 1
@@ -34,7 +34,7 @@
     {
         "id": 11, 
         "src": "https://cdn.shopify.com/s/files/1/0086/0795/7054/products/TrixieInteractiveCatToys-PlayingRodWithButterfly-Assorted_510x@2x.png?v=1637916733", 
-        "name": "Trixie",
+        "name": "Trixie Interactive Cat Toys - Playing Rod With Butterfly",
         "details": "Interactive Cat Toys",
         "price": 500,
         "qty": 1
@@ -42,7 +42,7 @@
     {
         "id": 12, 
         "src": "https://img.joomcdn.net/817fa0370743a317924ee01e3a98f6b1128aab1a_original.jpeg", 
-        "name": "Pet Dog/Cat Tent House",
+        "name": "Pet Dog Cat Tent House Kennel Winter Warm Bed",
         "details": "Warm Bed",
         "price": 1000,
         "qty": 1
@@ -50,7 +50,7 @@
     {
         "id": 13, 
         "src": "https://res.cloudinary.com/epantry/image/upload/f_auto,fl_progressive,h_1160,ar_1:1,c_pad,b_white/v1596843070/oler9uxpgw4n1sstczn1.jpg", 
-        "name": "HUFT Natural Tick & Flea Repellent",
+        "name": "HUFT Natural Tick & Flea Repellent Shampoo",
         "details": "Shampoo",
         "price": 150,
         "qty": 1
@@ -58,7 +58,7 @@
     {
         "id": 14, 
         "src": "https://m.media-amazon.com/images/I/51MIRQhM3dL._SY355_.jpg", 
-        "name": "HUFT Pet Dematting",
+        "name": "HUFT Pet Dematting Narrow Tooth Comb",
         "details": "Narrow Tooth Comb",
         "price": 200,
         "qty": 1
@@ -66,7 +66,7 @@
     {
         "id": 15, 
         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDY2ojwwvh3e_vhBVZvBboaPMO9bbIuz1WSmTppoqY_A82BI-6jCKhdpFgJQnhVcPJrE&usqp=CAU", 
-        "name": "HUFT Personalised",
+        "name": "HUFT Personalised Dog Collar for large dogs",
         "details": "Dog Collar (large dogs)",
         "price": 350,
         "qty": 1
@@ -74,7 +74,7 @@
     {
         "id": 16, 
         "src": "https://zoodmall.com/cdn-cgi/image/w=450,fit=contain,f=auto/http://www.welenespicshop.com/tupian9/LYD200810378_0255430993880365308.jpg", 
-        "name": "HUFT Polka Dot",
+        "name": "HUFT Polka Dot Detachable Cat/Puppy Bow Tie - Pink",
         "details": "Detachable Cat/Puppy Bow Tie",
         "price": 400,
         "qty": 1
